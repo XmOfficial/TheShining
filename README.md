@@ -1,5 +1,7 @@
 # 《闪灵》打字模拟器
 
+![Shining](shining.gif)
+
 这个 Python 脚本模拟了电影《闪灵》中 Jack Torrance 疯狂打字的经典场景，在终端中无限循环输出那句著名的台词：
 
 > "All work and no play makes Jack a dull boy"
